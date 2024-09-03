@@ -16,7 +16,7 @@ int main(){
         std::cout << "1. Deposit\n";
         std::cout << "2. Withdraw\n";
         std::cout << "3. Balance\n";
-        std::cout << "4. Exit\n";
+        std::cout << "4. Quit\n";
         std::cout << "Select an option: ";
         std::cin >> choice;
         std::cin.clear();
